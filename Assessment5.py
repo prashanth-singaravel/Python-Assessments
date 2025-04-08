@@ -1,10 +1,10 @@
 # Q1:Write a Python program using a for loop to print numbers from 1 to 10.
 
 # A1:
-
-# for number in range(1, 11):
-#     print(number)
-
+```python
+for number in range(1, 11):
+    print(number)
+```
 # Q2:Write a Python program that takes an integer N as input and uses a while loop to calculate the sum of the first N natural numbers.
 
 # # A2:
